@@ -1,1 +1,1 @@
-console.log("Woi baru lagi");
+console.log("Woi baru lagi jir");
