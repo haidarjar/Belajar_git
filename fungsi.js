@@ -6,3 +6,6 @@ console.log(subtrack(5, 3));
 
 const multiply = (a, b) => a * b;
 console.log(multiply(5, 4));
+
+const devide = (a, b) => a / b;
+console.log(devide(9, 3));
