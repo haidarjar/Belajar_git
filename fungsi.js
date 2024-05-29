@@ -9,3 +9,5 @@ console.log(multiplyNumber(5, 4));
 
 const devide = (a, b) => a / b;
 console.log(devide(9, 3));
+
+console.log(multiplyNumber(5, 5));
